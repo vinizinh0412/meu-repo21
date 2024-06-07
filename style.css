@@ -1,0 +1,13 @@
+:root {
+    --branco-principal: #abf395ad;
+    --cinza-secundario: #bdf0ad;
+    --botao-azul: #f72702;
+    --cor-de-fundo: #a4b7f1;
+}
+body{
+    background-color: #a4b7f1;
+}
+p{
+    color: green;
+    text-align: center;
+}
