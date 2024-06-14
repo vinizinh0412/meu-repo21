@@ -1,13 +1,19 @@
 :root {
-    --branco-principal: #abf395ad;
-    --cinza-secundario: #bdf0ad;
-    --botao-azul: #f72702;
-    --cor-de-fundo: #a4b7f1;
+    --branco-principal: #000000fa;
+    --cinza-secundario: #000000;
+    --botao-azul: #110e0e;
+    --cor-de-fundo: #ffffff;
 }
 body{
-    background-color: #a4b7f1;
+    background-color: #f6fbf6;
+    text-align:center
 }
+h{text-align: center;}
 p{
-    color: green;
+    color: rgb(12, 9, 9);
     text-align: center;
+}
+* {
+    margin: 1;
+    padding: 2;
 }
